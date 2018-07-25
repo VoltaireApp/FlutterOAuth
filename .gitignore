@@ -6,3 +6,5 @@
 packages
 pubspec.lock
 example/.flutter-plugins
+.history/**
+.vscode
