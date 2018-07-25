@@ -1,3 +1,7 @@
+# Attribution/Info
+
+This is simply a rework of @hitherejoe's actual work to work with Dart 2. I have submitted a PR, but since it has not yet been merged, I am publishing this package. 
+
 # Flutter OAuth
 
 A Flutter OAuth package for performing user authentication for your apps.
