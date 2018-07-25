@@ -1,4 +1,4 @@
-name: flutter_oauth_dart2
+name: flutter_oauth
 description: A flutter oauth package for performing oauth operations. This is simply a rework of others' work to work with Dart2. PRs to original packages are pending and ideally this can go away.
 version: 0.0.1
 author: Basit Mustafa
